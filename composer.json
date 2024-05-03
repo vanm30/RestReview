@@ -1,0 +1,16 @@
+{
+  "name": "RestView",
+  "description": "php app for restaurant reviews",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "matejv30",
+      "email": "vanikmatej99@gmail.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.6",
+    "google/apiclient": "^2.0"
+  }
+}
